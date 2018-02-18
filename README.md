@@ -4,9 +4,9 @@
 - Simple hover effect
 
 ## Folders and Files
-- index.html as entry point
-- css folder for the styles sheet
-- img folder containes the logo
+- index.html file as the entry point
+- css folder contains styles sheet
+- img folder contains logo
 
 ## Links
 [See website here!](https://dulanjaleefl.github.io/Navigation-bar-demo/)
